@@ -8,11 +8,6 @@
 
 Data science interview questions - with answers
 
-The answers are given by the community
-
-* If you know how to answer a question — please create a PR with the answer
-* If there's already an answer, but you can improve it — please create a PR with improvement suggestion
-* If you see a mistake — please create a PR with a fix
 
 For updates, follow me on Twitter ([@Al_Grigor](https://twitter.com/Al_Grigor)) and on LinkedIn ([agrigorev](https://www.linkedin.com/in/agrigorev))
 
@@ -20,7 +15,7 @@ For updates, follow me on Twitter ([@Al_Grigor](https://twitter.com/Al_Grigor)) 
 ## Questions by category
 
 * Theoretical questions: [theory.md](theory.md) (linear models, trees, neural networks and others)
-* Technical questions: [sql_interview_practice.md](technical.md) (SQL, Python, coding)
+* Technical questions: [sql_interview_practice.md](sql_interview_practice.md) (SQL)
 * More to come
 
 ## Other useful things
